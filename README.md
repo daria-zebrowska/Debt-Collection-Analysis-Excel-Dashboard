@@ -17,7 +17,7 @@ Kluczowe aspekty:
 
 Dane zostały pozyskane z opublikowanego na stronie internetowej Raportu o stanie „...” w 2018 roku.
 Projekt został stworzony przy użyciu narzędzi do analizy danych, w tym Excela.
-Daria Żebrowska
+
 
 Debt Collection Analysis – Excel Dashboard.
 ---
@@ -39,4 +39,4 @@ Key Aspects:
 
 The data was obtained from the publicly available report on the state of "..." in 2018.
 The project was created using data analysis tools, including Excel.
-Daria Żebrowska
+
