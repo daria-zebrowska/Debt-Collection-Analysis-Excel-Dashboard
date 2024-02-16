@@ -1,5 +1,6 @@
 ##Analiza działań windykacyjnych – Dashboard Excel.
 
+
 Projekt ten prezentuje analizę działań podjętych przez dział windykacji celem odzyskania należnej mu opłaty (podatku). 
 Na pierwszy rzut oka uzyskujemy informacje o liczbie podatników, udziale zalegających, procentowym udziale wraz z kwotą zaległości. 
 Te dane stanowią istotny kontekst dla prognoz finansowych i ustalania stawek wymiaru opłaty dla poszczególnych sektorów.
