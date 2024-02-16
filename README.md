@@ -5,7 +5,6 @@ Na pierwszy rzut oka uzyskujemy informacje o liczbie podatników, udziale zalega
 Te dane stanowią istotny kontekst dla prognoz finansowych i ustalania stawek wymiaru opłaty dla poszczególnych sektorów.
 
 Kluczowe aspekty:
----
     Podatnicy i Zaległości:
         Liczba podatników, liczba zalegających, procentowy udział zalegających, kwota zaległości.
         Istotne dla oceny skali zaległości i udziału zalegających podatników.
