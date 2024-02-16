@@ -27,7 +27,6 @@ These details are crucial for assessing the scale of arrears and the proportion 
 which are taken into account when forecasting financial inflows and setting payment rates for different sectors.
 
 Key Aspects:
----
     Taxpayers and Arrears:
         Number of taxpayers, number of defaulters, percentage of defaulters, amount of arrears.
         Important for evaluating the scale of arrears and the share of defaulting taxpayers.
