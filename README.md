@@ -18,6 +18,7 @@ Kluczowe aspekty:
 Dane zostały pozyskane z opublikowanego na stronie internetowej Raportu o stanie „...” w 2018 roku.
 Projekt został stworzony przy użyciu narzędzi do analizy danych, w tym Excela.
 
+![Podgląd Dashboardu](dashboard_excel.jpg)
 
 Debt Collection Analysis – Excel Dashboard.
 ---
